@@ -18,7 +18,7 @@ Clone the repository:
 bash
 نسخ
 تحرير
-git clone https://github.com/yourusername/invitation-letter-generator.git
+git clone https://github.com/ebrahimreda/custom-invitation-generator.git
 Navigate to the project directory:
 
 bash
@@ -37,7 +37,7 @@ Note: This project uses only Python's built-in libraries, so no external depende
 Usage
 Update File Paths:
 Open the script and verify the following paths to ensure they match your environment:
-
+https://github.com/ebrahimreda/custom-invitation-generator.git
 LETTER_TEMPLATE_PATH: Path to your letter template file.
 NAMES_FILE_PATH: Path to your file containing the recipient names.
 INVITATION_LETTERS_DIR: Directory where the generated invitation letters will be saved.
